@@ -2,7 +2,7 @@
 
 ## React Bootstrap Project Using Cyborg-template Design from <a href="https://templatemo.com/">Temlatemo.com</a>
 
-## tools & technologies Used
+## tools & technologies used
 
 ### HTMl5,CSS3,JS,React.js,React-router-dom,Bootstarp5
 
