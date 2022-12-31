@@ -4,6 +4,6 @@
 
 ## Tools & Technologies used
 
-### HTMl5,CSS3,JS,React.js,React-router-dom,Bootstarp5
+### HTMl5,CSS3,JS,React.js,React-router-dom,Bootstarp 5
 
 ##  <a href="https://lucky-sundae-5bebfa.netlify.app/">Live Demo</a>
